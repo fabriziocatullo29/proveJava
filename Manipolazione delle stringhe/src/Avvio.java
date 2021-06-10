@@ -1,6 +1,6 @@
 
 public class Avvio {
-
+// Saluti da Fabrizio!!
 	public static void main(String[] args) {
 
 		//Manipolazione delle stringhe
@@ -50,22 +50,22 @@ public class Avvio {
 			System.out.println("I due nomi sono diversi");
 		}
 		
-		//5)isEmpty() ritorna true se la stringa è vuota,altrimenti false
+		//5)isEmpty() ritorna true se la stringa Ã¨ vuota,altrimenti false
 		String prova1="";
 		String prova2=" ";
 		//Prova1
 		if(prova1.isEmpty()) {
-			System.out.println("La stringa è vuota");
+			System.out.println("La stringa Ã¨ vuota");
 		}
 		else {
-			System.out.println("La stringa non è vuota!");
+			System.out.println("La stringa non Ã¨ vuota!");
 		}
 		//Prova2
 		if(prova2.isEmpty()) {
-			System.out.println("La stringa è vuota");
+			System.out.println("La stringa Ã¨ vuota");
 		}
 		else {
-			System.out.println("La stringa non è vuota!");
+			System.out.println("La stringa non Ã¨ vuota!");
 		}
 		
 		//6)replace()
@@ -103,7 +103,7 @@ public class Avvio {
 		
 		char lettera = 'B';
 		if(lettera==66) {
-			System.out.println("Questa è la lettera B");
+			System.out.println("Questa Ã¨ la lettera B");
 		}
 		
 		
